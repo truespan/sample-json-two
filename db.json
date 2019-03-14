@@ -17,5 +17,9 @@
       "Designation": "Android Developer",
       "Location": "Hosur",
       "About": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "  
-      }]
+      }],
+  "Message" : {
+      "Status": "status",
+      "Error": "none"
+  }
 }
