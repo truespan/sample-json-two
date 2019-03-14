@@ -1,0 +1,21 @@
+{
+  "Employee": [{
+      "EmployeeName": "Krishna Kaivlyanath",
+      "EmployeeId": "ABC12345",
+      "Designation": "Student",
+      "Location": "Hosur",
+      "About": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "
+      },{
+      "EmployeeName": "Chayalakshmi KN",
+      "EmployeeId": "DEF12345",  
+      "Designation": "House-wife",
+      "Location": "Hosur",
+       "About": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "
+      },{
+      "EmployeeName": "Sanjeeb Kumar S",
+      "EmployeeId": "PQR12345",
+      "Designation": "Android Developer",
+      "Location": "Hosur",
+      "About": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "  
+      }]
+}
